@@ -1,0 +1,6 @@
+{
+  "name": "NetKare AI",
+  "description": "Eski ve düşük kaliteli videoları yapay zeka desteğiyle netleştiren, onaran ve çözünürlüğünü yükselten video iyileştirme uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

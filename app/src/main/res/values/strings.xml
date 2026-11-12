@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NetKare AI</string>
+    <string name="nav_video_studio">Video Stüdyo</string>
+    <string name="nav_photo_restore">Foto Onarım</string>
+    <string name="nav_history">Geçmiş</string>
+    <string name="studio_tagline">Yapay Zeka Destekli Video &amp; Fotoğraf Restorasyon Stüdyosu</string>
+    <string name="upload_video_title">Video Yükle</string>
+    <string name="pick_video_gallery">Galeriden Video Seç</string>
+    <string name="load_sample_video">Örnek Eski Video Oluştur</string>
+    <string name="quality_settings_title">Kalite Ayarları</string>
+    <string name="target_resolution_label">Hedef Çözünürlük</string>
+    <string name="ai_preset_label">Yapay Zeka İyileştirme Modu</string>
+    <string name="start_enhancement">İyileştirmeyi Başlat</string>
+    <string name="cancel_enhancement">İşlemi İptal Et</string>
+    <string name="ai_analyze_video">AI Video Analizi Yap</string>
+    <string name="save_to_gallery">Galeriye Kaydet</string>
+    <string name="share_result">Paylaş</string>
+    <string name="one_tap_enhance">Tek Tuşla AI İyileştir</string>
+    <string name="pick_photo_gallery">Galeriden Fotoğraf Seç</string>
+    <string name="load_sample_photo">Örnek Eski Fotoğraf</string>
+    <string name="manual_adjustments">Manuel Düzenleme</string>
+    <string name="before_label">ÖNCESİ</string>
+    <string name="after_label">SONRASI</string>
+    <string name="history_empty_title">Henüz iyileştirme kaydı yok</string>
+    <string name="history_empty_subtitle">Video Stüdyo veya Foto Onarım sekmesinden ilk restorasyonunuzu başlatın.</string>
+</resources>
